@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NoteMeLab3</string>
+    <string name="noteme">NoteMe</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="description">Note Content</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_note">New Note</string>
+    <string name="no_notes_saved">No notes saved</string>
+    <string name="search_notes">Search Notes …</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="select_image_btn">Select Image</string>
+    <string name="edit_image">Edit Image</string>
+</resources>
